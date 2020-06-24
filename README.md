@@ -1,0 +1,1 @@
+Algumas maneiras de resolver as atividades de Array, Recursividade, Logica de programação e OO
